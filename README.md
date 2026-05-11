@@ -1,19 +1,19 @@
-# 🧠 Byte Pair Encoding (BPE) Tokenizer
+#  Byte Pair Encoding (BPE) Tokenizer
 
 [![CI Testing](https://github.com/sunii-x/BPE-Byte-pair-encoding-/actions/workflows/tests.yml/badge.svg)](https://github.com/sunii-x/BPE-Byte-pair-encoding-/actions)
 
 A from-scratch implementation of a **Byte Pair Encoding (BPE)** tokenizer in Python. 
 
-## 🚀 Why I Built This
+##  Why I Built This
 I built this project to move beyond treating AI as a "black box" and to deeply understand the mechanics of natural language processing. Understanding how text is compressed and converted into the numerical logic of neural networks is a crucial step for developing advanced AI applications and agents, including my work on projects like Bengine (AI Tutor).
 
-## ✨ Features
+##  Features
 *   **Train from Scratch:** Build a custom vocabulary by training the tokenizer on any text dataset.
 *   **Encode:** Convert raw strings of text into a sequence of integer token IDs.
 *   **Decode:** Perfectly reconstruct the original text from token IDs.
 *   **Automated Testing:** Fully unit-tested using GitHub Actions to ensure reliable encoding and decoding loops.
 
-## 💻 Example Usage
+##  Example Usage
 
 Here is how you can train the tokenizer and use it to encode and decode text:
 
